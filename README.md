@@ -222,7 +222,7 @@ ax.legend()
 plt.show()
 ```
 
-![Experimental Evidence](https://github.com/filipopper/quantum-gravity-entanglement-theory/img/Experimental Evidence) ![Complexity and Confounding Variables](https://github.com/filipopper/quantum-gravity-entanglement-theory/img/Complexity and Confounding Variables)
+![Experimental Evidence](https://github.com/filipopper/quantum-gravity-entanglement-theory/blob/main/img/Experimental%20Evidence.png) ![Complexity and Confounding Variables](https://github.com/filipopper/quantum-gravity-entanglement-theory/blob/main/img/Complexity%20and%20Confounding%20Variables.png)
 
 >[!CAUTION]
 > The complexity of the environment can introduce confounding variables, which highlights the need to carefully consider the simulation results in the general context of my theory.
